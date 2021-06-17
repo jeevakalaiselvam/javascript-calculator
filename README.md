@@ -2,6 +2,10 @@
 
 A simple calculator application using javascript
 
+# Live Application
+
+[APPLICATION LINK](https://jeevakalaiselvam.github.io/javascript-calculator/)
+
 # Screenshots
 
 ![Screenshot](screens/screen1.png)
